@@ -8,12 +8,12 @@ Who is eligible to participate in the mentorship program?
 
 ## Results
 
-* There are 72,458 employees retiring soon. The complete list of retirement-age employees by most recent job title can be found in the [unique_titles.csv]() file.
+* There are 72,458 employees retiring soon. The complete list of retirement-age employees by most recent job title can be found in the [unique_titles.csv](https://github.com/fabeza/Pewlett-Hackard-Analysis/blob/471444de8d9db845bb243a2a189eab4ee8cd0f2b/Data/unique_titles.csv) file.
 
 * The chart below provides further details on the number of retirement-age employees grouped by functional title.
-![retiring_titles.png]()
+![retiring_titles.png](https://github.com/fabeza/Pewlett-Hackard-Analysis/blob/471444de8d9db845bb243a2a189eab4ee8cd0f2b/retiring_titles.png)
 
- * There are 1,549 employees eligible to participate in the mentorship program. The complete list of eligible employees can be found in the [mentorship_elegibility.csv]() file.
+ * There are 1,549 employees eligible to participate in the mentorship program. The complete list of eligible employees can be found in the [mentorship_elegibility.csv](https://github.com/fabeza/Pewlett-Hackard-Analysis/blob/471444de8d9db845bb243a2a189eab4ee8cd0f2b/Data/mentorship_eligibility.csv) file.
 
 ## Summary
 
