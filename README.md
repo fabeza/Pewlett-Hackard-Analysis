@@ -13,6 +13,7 @@ Who is eligible to participate in the mentorship program?
 * There are 72,458 employees retiring soon. The complete list of retirement-age employees by most recent job title can be found in the [unique_titles.csv](https://github.com/fabeza/Pewlett-Hackard-Analysis/blob/471444de8d9db845bb243a2a189eab4ee8cd0f2b/Data/unique_titles.csv) file.
 
 * The chart below provides further details on the number of retirement-age employees grouped by functional title. The majority of retirement-age employees are at the senior engineer and senior staff levels.
+
 ![retiring_titles.png](https://github.com/fabeza/Pewlett-Hackard-Analysis/blob/471444de8d9db845bb243a2a189eab4ee8cd0f2b/retiring_titles.png)
 
  * There are 1,549 employees eligible to participate in the mentorship program. The complete list of eligible employees can be found in the [mentorship_elegibility.csv](https://github.com/fabeza/Pewlett-Hackard-Analysis/blob/471444de8d9db845bb243a2a189eab4ee8cd0f2b/Data/mentorship_eligibility.csv) file.
@@ -23,7 +24,12 @@ There is a large number of employees in retirement-age, PH should promptly finis
 
 PH should immediately launch the mentorship program for those positions that will be vacant the soonest and hiring new employees who would be included in the mentorship program as well. The hiring piece is crucial, as shown in the results below, there are only 1,549 employees who qualify for the mentorship program and 72,458 close to retiring, most of them, at the senior engineer level.
 
-![mentorship_eligibility]()
+Eligible for mentorship:
+
+![mentorship_eligibility](https://github.com/fabeza/Pewlett-Hackard-Analysis/blob/e383d7a65b697376f337a82b7a19685aa2336e52/mentorship_eligibility.png)
+
+Close to retiring:
+
 ![retiring_titles.png](https://github.com/fabeza/Pewlett-Hackard-Analysis/blob/471444de8d9db845bb243a2a189eab4ee8cd0f2b/retiring_titles.png)
 
 The number of retirement-age employees is significantly higher than those who are available for the mentorship program. This means PH may have to hire multiple positions simultaneously. The HR team might need help filling up these positions so the company should consider retaining a recruiting firm to help with high volume hiring.
