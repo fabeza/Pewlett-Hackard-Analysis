@@ -24,9 +24,9 @@ There is a large number of employees in retirement-age, PH should promptly finis
 
 PH should immediately launch the mentorship program for those positions that will be vacant the soonest and hiring new employees who would be included in the mentorship program as well. The hiring piece is crucial, as shown in the results below, there are only 1,549 employees who qualify for the mentorship program and 72,458 close to retiring, most of them, at the senior engineer level.
 
-Eligible for mentorship:
+Eligible for mentorship: 
 
-![mentorship_eligibility](https://github.com/fabeza/Pewlett-Hackard-Analysis/blob/e383d7a65b697376f337a82b7a19685aa2336e52/mentorship_eligibility.png)
+![mentorship_eligibility_titles.png](https://github.com/fabeza/Pewlett-Hackard-Analysis/blob/f51eee60fc7dea9bf87df62e436c1c8528d94872/mentorship_eligibility_titles.png))
 
 Close to retiring:
 
